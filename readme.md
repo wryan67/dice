@@ -1,3 +1,4 @@
-#  Dice
-#  Simple iOS Swift dice roller
+Dice
+----
+Simple iOS Swift dice roller
 
